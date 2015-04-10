@@ -4,7 +4,7 @@ public class Consts {
     public static interface REQUEST {
         public static final String API_KEY = "37970";
         public static final String OAUTH_TOKEN = "0e491c59ad834583b4e397ddf7ce9d9e";
-        public static final String DATE_FROM = "today";
+        public static final String DATE_FROM = "2015-03-25";
         public static final String DATE_TO = "today";
 
         public static interface EVENT {
